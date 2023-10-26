@@ -58,7 +58,7 @@ The receiver module is responsible for converting the received serial data back 
 
 ## UART Implementation in Verilog
 The repository contains Verilog code for implementing UART. 
-- [Verilog codes](/transmitter)
+- [Verilog codes](https://github.com/Nusrath-Amana/UART-implementation-using-FPGA/commit/12f310066228b552daeaceacf767cada46db9be6)
 
 ## Testbench
 A testbench is provided in the [testbench](/testbench) directory to simulate the functionality of the UART transmitter and receiver. The testbench operates at a Baud Rate of 115200 and is for simulation purposes only.
