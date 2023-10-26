@@ -1,4 +1,4 @@
-# UART Implementation in Verilog
+# UART Transceiver Using FPGA
 
 ## Overview
 This repository contains Verilog code for implementing a UART (Universal Asynchronous Receiver Transmitter) communication protocol in an FPGA. UART is commonly used for serial communication between devices such as FPGAs, microcontrollers, computers, and sensors. This README provides an overview of UART, its functionality, and code examples for implementing UART in an FPGA using Verilog.
